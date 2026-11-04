@@ -1,4 +1,4 @@
-# Mac mini (2023, M2) — open 3D model
+# Mac Mini (M2, 2023) - Open 3D Model
 
 A real-scale 3D model of the **2023 Apple Mac mini with the base M2 chip**, released under **CC BY 4.0**. You get a standalone `.glb` and an editable Unity prefab with the procedural builder script that generates it.
 
