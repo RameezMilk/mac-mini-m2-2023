@@ -1,0 +1,25 @@
+{
+    "name": "MacMini.Editor",
+    "rootNamespace": "MacMiniM2",
+    "references": [
+        "glTFast",
+        "glTFast.Export"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.cloud.gltfast",
+            "expression": "6.0.0",
+            "define": "MACMINI_GLTFAST"
+        }
+    ],
+    "noEngineReferences": false
+}

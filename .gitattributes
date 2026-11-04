@@ -1,0 +1,5 @@
+*.glb binary
+*.asset -diff linguist-generated
+*.unity -diff linguist-generated
+*.prefab -diff linguist-generated
+*.mat -diff linguist-generated

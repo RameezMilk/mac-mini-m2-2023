@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mac mini M2 (2023)</title>
+<script type="module" src="https://cdn.jsdelivr.net/npm/@google/model-viewer@4.3.1/dist/model-viewer.min.js"></script>
+<style>
+  :root { --bg: #f3f4f6; color-scheme: light; }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) { --bg: #111318; color-scheme: dark; }
+  }
+  :root[data-theme="dark"] { --bg: #111318; color-scheme: dark; }
+  html, body { margin: 0; height: 100%; background: var(--bg); }
+  model-viewer { width: 100vw; height: 100vh; height: 100dvh; display: block; --poster-color: transparent; }
+</style>
+</head>
+<body>
+  <model-viewer
+    src="mac-mini-m2-2023.glb"
+    alt="3D model of a 2023 Mac mini with the Apple M2 chip"
+    camera-controls
+    touch-action="pan-y"
+    camera-orbit="-32deg 68deg auto"
+    camera-target="0m 0.018m 0m"
+    min-camera-orbit="auto 0deg 0.2m"
+    max-camera-orbit="auto 180deg 1.2m"
+    environment-image="neutral"
+    shadow-intensity="0.9"
+    shadow-softness="0.8">
+  </model-viewer>
+</body>
+</html>
