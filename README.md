@@ -1,5 +1,7 @@
 # Mac Mini (M2, 2023) - Open 3D Model
 
+![Mac Mini (M2, 2023) 3D model rotating](turntable.gif)
+
 A free, accurate 3D model of the 2023 Apple Mac Mini with the M2 chip.
 
 **[Download the model](https://github.com/RameezMilk/mac-mini-m2-2023/releases/download/v1.0/mac-mini-m2-2023.glb)** (.glb, 256 KB)
