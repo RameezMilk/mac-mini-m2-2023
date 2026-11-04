@@ -2,6 +2,8 @@
 
 A real-scale 3D model of the **2023 Apple Mac mini with the base M2 chip**, released under **CC BY 4.0**. You get a standalone `.glb` and an editable Unity prefab with the procedural builder script that generates it.
 
+**[⬇ Download mac-mini-m2-2023.glb (256 KB)](https://github.com/RameezMilk/mac-mini-m2-2023/releases/download/v1.0/mac-mini-m2-2023.glb)** · [Release notes](https://github.com/RameezMilk/mac-mini-m2-2023/releases/tag/v1.0)
+
 | | |
 |---|---|
 | File | `mac-mini-m2-2023.glb`, self-contained, no textures; passes the Khronos glTF Validator with 0 errors and 0 warnings |
